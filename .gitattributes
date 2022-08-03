@@ -1,1 +1,13 @@
 *.sol linguist-language=Solidity
+
+pragma solidity ^0.7.8
+
+
+contract ethMerge{
+
+function  jujue(
+{
+
+
+
+}
